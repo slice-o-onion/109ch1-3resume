@@ -93,7 +93,7 @@ footer a:hover {
     flex: 1 0 auto;
 }
 .content-bg {
-    background: rgba(79, 82, 80, 0.9);
+    background: rgba(165, 182, 171, 0.9);
     padding: 30px;
 }
 @media screen and (max-width:650px){
