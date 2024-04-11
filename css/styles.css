@@ -74,6 +74,17 @@ footer a:hover {
     border-radius: 4px;
 }
 
+@keyframes stretching {
+    0%{
+    width: 100px;
+     }
+    100% {
+    width: 100%;
+     }
+    }
+    
+
+
 .content-wrapper {
     margin: 0 auto;
     padding: 30px;
